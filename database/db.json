@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "سامسونگ Galaxy S25 Ultra",
+      "image": "https://www.technolife.com/image/small_product-TLP-78111_88f3841f-186e-4fb3-a519-89f6967547ab.png",
+      "price": 120
+    },
+    {
+      "id": "2",
+      "title": "اپل iPhone 17 Pro Max ZA/A",
+      "image": "https://www.technolife.com/image/small_product-TLP-149697_e49566d8-244f-415b-a227-f7345502170a.png",
+      "price": 140
+    },
+    {
+      "id": "3",
+      "title": "سامسونگ Galaxy A56",
+      "image": "https://www.technolife.com/image/small_product-TLP-99485_d7d9ce7c-5c49-4ccd-b5ec-50af994a2693.png",
+      "price": 70
+    },
+    {
+      "id": "4",
+      "title": "سامسونگ مدل Galaxy A16 4G",
+      "image": "https://www.technolife.com/image/small_product-TLP-69646_ca7a1c03-d5a4-4d76-aab9-d64da1219b5d.png",
+      "price": 65
+    },
+    {
+      "id": "137",
+      "title": "پوکو F6 Pro",
+      "image": "https://www.technolife.com/image/color_image_TLP-43161_5c41a80d-42d1-48b4-8be2-ae1d6f8e18f2.png",
+      "price": 100
+    },
+    {
+      "id": "16",
+      "title": "اپل مد‌ل iPhone 17 CH/A",
+      "image": "https://www.technolife.com/image/color_image_TLP-165487_b030b0_e7d9b602-e5a7-46f2-bf17-1d14ce3133e5.png",
+      "price": 80
+    },
+    {
+      "id": "559",
+      "title": "شیائومی مدل Redmi Note 14",
+      "image": "https://www.technolife.com/image/color_image_TLP-76419_3479bf_d1442eba-afe5-4d1d-8bbb-84e5a5f61499.png",
+      "price": "42"
+    },
+    {
+      "id": "908",
+      "title": "سامسونگ مدل Galaxy A17",
+      "image": "https://www.technolife.com/image/color_image_TLP-167563_d8e4c95b-9bcc-42f7-8578-e216bb41aef3.png",
+      "price": "88"
+    },
+    {
+      "id": "805",
+      "title": "اپل مد‌ل iPhone 17 CH/A",
+      "image": "https://www.technolife.com/image/color_image_TLP-165487_ffffff_a8d5228a-112c-40df-b0a9-09609a98eb82.png",
+      "price": "130"
+    },
+    {
+      "id": "869",
+      "title": "سامسونگ مدل Galaxy A06",
+      "image": "https://www.technolife.com/image/color_image_TLP-57991_3479bf_cb0e2fb5-4f15-4b91-9310-b655ff510d67.png",
+      "price": "40"
+    }
+  ],
+  "discount": [
+    {
+      "id": "1",
+      "code": "off10",
+      "persentage": 10
+    },
+    {
+      "id": "2",
+      "code": "off20",
+      "persentage": 20
+    },
+    {
+      "id": "3",
+      "code": "off50",
+      "persentage": 50
+    }
+  ]
+}
