@@ -22,7 +22,7 @@ function CartProduct({id,qty} : TCartItem) {
     
   return (
     <>
-        <div className='w-full mt-4 flex shadow-[0_0_32px_0_var(--tw-shadow-color)] shadow-slate-300 p-4 rounded-lg'>
+        <div className='w-full mt-4 flex shadow-[0_0_32px_0_var(--tw-shadow-color)] shadow-slate-300 dark:shadow-slate-800 p-4 rounded-lg'>
             <section className='md:w-1/10 w-4/10'>
                 <img className='rounded-md' src={data.image} alt=""/>
             </section>

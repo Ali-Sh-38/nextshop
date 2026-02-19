@@ -54,11 +54,15 @@ function PayPart() {
     <>
         <div className='font-semibold mt-4'>
             <form className='flex gap-4 mb-4'>
-                <input onChange={(e)=>setDiscountCode(e.target.value)} type="text" placeholder='کد تخفیف را وارد کنید' className='bg-slate-200 rounded-md px-2'/>
+                <input onChange={(e)=>setDiscountCode(e.target.value)} type="text" placeholder='کد تخفیف را وارد کنید' className='bg-slate-200 dark:text-red-600 rounded-md px-2'/>
                 <Button onClick={handleSubmitDiscount}>اعمال</Button>
             </form>
-            
-            
+            <section className='mb-2'>
+                <p>کد های تخفیف</p>
+                <p>off10</p>
+                <p>off20</p>
+                <p>off50</p>
+            </section>
 
             <div className='text-[20px] border-r-4 border-red-700 p-4 w-max'>
                 <p> قیمت کل : {totalPrice} </p>

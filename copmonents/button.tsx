@@ -8,7 +8,7 @@ interface TButton {
 function Button({children , onClick} : TButton) {
   return (
     <>
-        <button onClick={onClick} className='bg-slate-900 text-white min-w-8 h-8 px-2 rounded-md cursor-pointer'>{children}</button>
+        <button onClick={onClick} className='bg-slate-900 dark:bg-slate-300 text-white dark:text-black min-w-8 h-8 px-2 rounded-md cursor-pointer'>{children}</button>
     </>
   )
 }
